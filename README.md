@@ -1,1 +1,1 @@
-### BELAJAR Code Igniter 3
+### BELAJAR CODE IGNITER 3
